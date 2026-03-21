@@ -197,6 +197,13 @@ a.home-link:hover {
   margin-bottom: 0.35rem;
 }
 
+.press-year {
+  font-size: 0.75rem;
+  color: #555;
+  margin-right: 0.5rem;
+  font-variant-numeric: tabular-nums;
+}
+
 .press-list > li > ul {
   list-style: none;
   padding-left: 1rem;
