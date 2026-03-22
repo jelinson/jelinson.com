@@ -42,9 +42,6 @@ h1 {
   color: #e8e8e8;
 }
 
-.links a.active {
-  color: #e8e8e8;
-}
 
 a.home-link {
   color: inherit;
@@ -79,6 +76,8 @@ a.home-link:hover {
   gap: 1.25rem;
   margin-top: 2.5rem;
   max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .project-card {
@@ -101,6 +100,12 @@ a.home-link:hover {
 
 .project-card.no-link {
   cursor: default;
+}
+
+.project-card.no-link:hover {
+  transform: none;
+  box-shadow: none;
+  border-color: #2a2a2a;
 }
 
 .project-image {
@@ -156,6 +161,8 @@ a.home-link:hover {
 .detail {
   margin-top: 2.5rem;
   max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .detail-image {
