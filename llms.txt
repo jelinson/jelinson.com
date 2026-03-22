@@ -1,0 +1,14 @@
+# Julius Elinson
+
+> Staff Software Engineer with 11 years at Google across Ads, Geo, and Payments. Builder of consumer products and internal tools at scale.
+
+## About
+
+- [Home](https://jelinson.com/): Julius Elinson — Staff Software Engineer, Ex-Google
+
+## Projects
+
+Other projects include Room 77 (travel search startup, acquired by Google), Big G's Finder (ice cream flavor tracker), Flowcart (grocery route optimizer), and C-Plane (Disney Animation Studios collaboration framework, basis for US Patent 8,645,845).
+
+- [Google](https://jelinson.com/projects/google.html): 11 years at Google — selected press coverage of shipped products including YouTube Likeness Detection, Google Maps Stop Signs & Traffic Lights, Hotel Natural Language Filters, and TrustYou Hotel Review Score integration
+- [Interview Club](https://jelinson.com/projects/interviewclub.html): Two-sided marketplace connecting engineers with companies needing technical interview services. LAUNCH Hackathon 2015 finalist, $10,000+ in prizes. Built in 48 hours.
