@@ -5,15 +5,15 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://jelinson.com/projects.html</loc>
+    <loc>https://jelinson.com/projects</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://jelinson.com/projects/google.html</loc>
+    <loc>https://jelinson.com/projects/google</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jelinson.com/projects/interviewclub.html</loc>
+    <loc>https://jelinson.com/projects/interviewclub</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
