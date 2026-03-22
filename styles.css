@@ -60,6 +60,18 @@ a.home-link:hover {
   color: #b0b0b0;
 }
 
+.tagline a.home-link {
+  color: #f0f0f0;
+}
+
+.tagline a.home-link:visited {
+  color: #f0f0f0;
+}
+
+.tagline a.home-link:hover {
+  color: #b0b0b0;
+}
+
 /* Projects page */
 .projects-grid {
   display: grid;
